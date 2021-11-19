@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 
-public class Akinator<E extends Comparable <E>> extends JFrame implements ActionListener {
+public class Cuestionario Inteligente<E extends Comparable <E>> extends JFrame implements ActionListener {
 	
 
 	private DesTree<E> tree;
